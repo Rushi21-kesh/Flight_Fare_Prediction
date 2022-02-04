@@ -1,0 +1,9 @@
+gunicorn==20.0.4
+numpy==1.18.1
+pandas==1.0.1
+scikit-learn==1.0.2
+streamlit
+pickle
+datetime
+matplotlib
+seaborn
