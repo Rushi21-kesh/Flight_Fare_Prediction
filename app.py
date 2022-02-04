@@ -21,7 +21,7 @@ global model
 df = pd.read_excel('Data_Train.xlsx')
 
 def import_model():
-    model = pickle.load(open("D:flight_rf.pkl", "rb"))
+    model = pickle.load(open("model.pkl", "rb"))
     return model
 
 st.title('✈️ Flight Fare Prediction  ✈')
