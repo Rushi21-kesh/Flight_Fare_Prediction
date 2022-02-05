@@ -21,3 +21,4 @@ wincertstore==0.2
 streamlit
 pickle-mixin
 datetime
+cython
